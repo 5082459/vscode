@@ -9,3 +9,5 @@ git push -u origin master
 git remote add origin https://github.com/5082459/vscode.git
 git push -u origin master
 
+git config --global user.email "eamil@qq.com"
+git config --global user.name "nameVal"
